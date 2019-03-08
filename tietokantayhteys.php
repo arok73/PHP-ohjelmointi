@@ -1,8 +1,8 @@
 <?php 
 $palvelimen_osoite = "localhost";
-$mysql_kayttajatunnus = "root";
-$mysql_salasana = "***REMOVED***";
-$mysql_tietokanta = "***REMOVED***";
+$mysql_kayttajatunnus = "*****";
+$mysql_salasana = "*****";
+$mysql_tietokanta = "*****";
 	
 function muodosta_mysql_yhteys() {
 	global $palvelimen_osoite, $mysql_kayttajatunnus, $mysql_salasana, $mysql_tietokanta;
